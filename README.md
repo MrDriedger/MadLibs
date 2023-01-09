@@ -16,5 +16,8 @@ Task: Create your own Mad Libs style game. You have been given 3 diffiulty level
 - use `random` to present the user with a different quote each time
 
 To create your own code, click New File in the Explorer area and give it a descriptive name ending in `.py`.
+
+## GitHub Instructions
 To run your code, in the Terminal area, type `python mad-libs-level0.py`.
+
 To save your code click the Source Control tab on the left, type a message explaining your changes, and press Commit & Push.
